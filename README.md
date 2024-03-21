@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chao Tan from Sichuan Uninversity.
-- 👀 I’m interested in riding and read.
 - 🌱 I’m currently learning computational imaging and 3D display.
-- 💞️ I’m looking to PHD position ...
+- 💞️ I am currently immersed in the fields of Fourier ptychography, computational imaging, and computer-generated holography
 - 📫 You can connect with me in e-mail: tanchao@stu.scu.edu.cn
 
 <!---
