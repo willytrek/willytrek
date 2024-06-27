@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chao Tan from Sichuan Uninversity.
+- 👋 Hi, I’m @Chao Tan. I will be pursuing my master's degree at KAIST and have obtained my bachelor's degree from Sichuan University.
 - 🌱 I’m currently learning computational imaging and 3D display.
-- 💞️ I am currently immersed in the fields of Fourier ptychography, computational imaging, and computer-generated holography
+- 💞️ I am currently immersed in the fields of computational imaging, Fourier ptychography, and computer-generated holography
 - 📫 You can connect with me in e-mail: tanchao@stu.scu.edu.cn
 
 <!---
