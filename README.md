@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chao Tan. I will be pursuing my master's degree at KAIST and have obtained my bachelor's degree from Sichuan University.
-- 💞️ I am currently immersed in the fields of computational imaging, Fourier ptychography, and computer-generated holography
+- 💞️ You can learn more about me on my [personal website](https://willytrek.github.io/ChaoTan.github.io/)
 - 📫 You can connect with me by e-mail: tanchao_willytrek@qq.com
 
 <!---
