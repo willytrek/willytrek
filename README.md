@@ -6,8 +6,7 @@ Education:
 - 2020 - 2024, BS in Optoelectronic Information Science and Engineering at Sichuan University.
 
 Research:
-
-- omputational microscopic imaging. 
+- Computational microscopic imaging. 
 - Holographic Display.
 
 📫 You can connect with me by e-mail: tanchao_willytrek@qq.com
