@@ -6,7 +6,7 @@ Education:
 - 2020 - 2024, BS in Optoelectronic Information Science and Engineering, SCU.
 
 Research:
-- Computational microscopic imaging. 
-- Holographic Display.
+- Computational imaging. 
+- Computational display.
 
 📫 You can connect with me by e-mail: tanchao_willytrek@qq.com
