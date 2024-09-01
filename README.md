@@ -1,4 +1,4 @@
-👋 Hi, I am a Master candidate in Mooo Research Group (https://mooolab.kaist.ac.kr/index.html) at Korea Advanced Institute of Science & Technology (KAIST), working with Prof. Mooseok Jang.
+👋 Hi, I am a Master candidate in [Mooo Research Group](https://mooolab.kaist.ac.kr/index.html) at Korea Advanced Institute of Science & Technology (KAIST), working with Prof. Mooseok Jang.
 Mooseok Jang  
 
 Education:  
