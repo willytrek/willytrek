@@ -3,7 +3,7 @@
 
 Education:  
 - 2024 - now, MS in Bio and Brain Engineering, KAIST.   
-- 2020 - 2024, BS in Optoelectronic Information Science and Engineering,SCU.
+- 2020 - 2024, BS in Optoelectronic Information Science and Engineering, SCU.
 
 Research:
 - Computational microscopic imaging. 
