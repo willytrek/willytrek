@@ -10,4 +10,4 @@ Research:
 - Computational imaging. 
 - Computational display.
 
-📫 You can connect with me by e-mail: tanchao_willytrek@qq.com
+📫 You can connect with me by e-mail: chaotan2124@gmail.com
